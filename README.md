@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS & Azure**
 
-- 💬 Ask me about **DSA and web dev**
+- 💬 Ask me about **Data & AI**
 
 - 📫 How to reach me **gunjansahu17@gmail.com**
 
