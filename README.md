@@ -11,7 +11,7 @@
 
 - 👀 I’m interested in Data Engineering 
 
--  I’m looking to collaborate on Websites 
+-  I’m looking to collaborate on Projects 
 
 - 👯 I’m looking to collaborate on exciting Projects and Hackathons
 
